@@ -1,0 +1,6 @@
+@charset "UTF-8";
+*{margin: 0; padding: 0;}
+
+.전체{background-color: lightgray;
+width: 1000px; margin: auto;
+}
